@@ -1,0 +1,30 @@
+liaitems:
+  - page: Home
+    url: /lia/index.html
+  - page: Introduction
+    url: /lia/Introduction.html
+  - page: Chronicle
+    url: /lia/Chronicle.html
+  - page: Texts
+    url: /lia/Texts.html
+  - page: Texts About
+    url: /lia/TextsAbout.html
+  - page: Bibliography
+    url: /lia/Biblio.html
+  - page: Bibliography About
+    url: /lia/BiblioAbout.html
+akvitems:
+  - page: Home
+    url: /akv/index.html
+  - page: Introduction
+    url: /akv/Introduction.html
+  - page: Chronicle
+    url: /akv/Chronicle.html
+  - page: Bibliography
+    url: /akv/Bibliography.html
+  - page: Texts
+    url: /akv/Texts.html
+  - page: Photos
+    url: /akv/Photos.html
+  - page: Documents
+    url: /akv/Documents.html

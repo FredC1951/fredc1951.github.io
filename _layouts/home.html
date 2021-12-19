@@ -1,0 +1,23 @@
+---
+layout: default
+---
+{% unless page.hide_nav %}
+{% if page.section == "lia" %}
+  {% for entry in site.data.navtop.liaitems %}
+  | <a href="{{ entry.url }}">{{ entry.page }}</a>
+  {% endfor %}
+{% elsif page.section == "akv" %}
+{% for entry in site.data.navtop.akvitems %}
+| <a href="{{ entry.url }}">{{ entry.page }}</a>
+{% endfor %}
+{% endif %}
+{% endunless %}
+
+<p></p>
+
+<div class="home">
+
+  {{ content }}
+
+</div>
+
