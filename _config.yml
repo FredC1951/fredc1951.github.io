@@ -30,7 +30,10 @@ github_username:
 # Build settings
 # theme: minima
 # theme: jekyll-theme-minimal
-theme: jekyll-theme-minima
+# theme: jekyll-theme-minima
+theme: github-pages
+remote_theme: pages-themes/minimal@v0.2.0
+
 #plugins:
 #  - jekyll-feed
 
