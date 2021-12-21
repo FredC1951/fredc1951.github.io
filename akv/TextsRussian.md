@@ -41,419 +41,419 @@
 						<tr>
 							<td colspan="4">
 								<div align="center">
-									<font size="+2"><b>Русские тексты</b></font></div>
+									<font size="+2"><b>Р°С“С‘С‘СЉС€С… С’С…СЉС‘С’С›</b></font></div>
 							</td>
 						</tr>
 						<tr>
-							<td width="50"><font size="+1"><b>Год</b></font></td>
+							<td width="50"><font size="+1"><b>РЈСЋС„</b></font></td>
 							<td>
 								<div align="center">
-									<font size="+1"><b>Название</b></font></div>
+									<font size="+1"><b>Р­СЂС‡С‚СЂСЌС€С…</b></font></div>
 							</td>
 							<td colspan="2" width="79">
 								<div align="center">
-									<font size="+1"><b>Файл</b></font></div>
+									<font size="+1"><b>РґСЂС‰С‹</b></font></div>
 							</td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1911</font></td>
-							<td><font size="+1">Публицистические наброски о Горьком. - Ясная заря, 1911, 11 октября, № 66 (72).</font></td>
+							<td><font size="+1">РЇС“СЃС‹С€С–С€С‘С’С€С—С…С‘СЉС€С… СЌСЂСЃв„–СЋС‘СЉС€ СЋ РЈСЋв„–СњСЉСЋСЊ. - РїС‘СЌСЂСџ С‡СЂв„–Сџ, 1911, 11 СЋСЉС’СџСЃв„–Сџ, Р™ 66 (72).</font></td>
 							<td width="35"><a title="On Gorky 11 October 1911" href="../Texts/Zaria11a.pdf"><font size="+1">Pdf</font></a></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1911</font></td>
-							<td><font size="+1">Публицистические наброски о Горьком. - Ясная заря, 1911, 12 октября, № 67 (73).</font></td>
+							<td><font size="+1">РЇС“СЃС‹С€С–С€С‘С’С€С—С…С‘СЉС€С… СЌСЂСЃв„–СЋС‘СЉС€ СЋ РЈСЋв„–СњСЉСЋСЊ. - РїС‘СЌСЂСџ С‡СЂв„–Сџ, 1911, 12 СЋСЉС’СџСЃв„–Сџ, Р™ 67 (73).</font></td>
 							<td width="35"><a title="On Gorky 12 October 1911" href="../Texts/Zaria11b.pdf"><font size="+1">Pdf</font></a></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1918</font></td>
-							<td><font size="+1">Народ, революция, интеллигенция. - Рабочий край, 1918, 28 июня.</font></td>
+							<td><font size="+1">Р­СЂв„–СЋС„, в„–С…С‚СЋС‹СћС–С€Сџ, С€СЌС’С…С‹С‹С€СѓС…СЌС–С€Сџ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1918, 28 С€СћСЌСџ.</font></td>
 							<td width="35"><a href="../Texts/RK180628.pdf" title="People, Revolution, Intelligentsia 1918"><font size="+1">Pdf</font></a></td>
 							<td width="36"><a title="People, Revolution, Intelligentsia" href="../Texts/RK180628.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1918</font></td>
-							<td><font size="+1">Осажденный лагерь. - Рабочий край, 1918, 7 июля.</font></td>
+							<td><font size="+1">Р®С‘СЂС†С„С…СЌСЌС›С‰ С‹СЂСѓС…в„–Сњ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1918, 7 С€СћС‹Сџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Besieged Camp 1918" href="../Texts/RK180707.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1918</font></td>
-							<td><font size="+1">О свободе печати. - Рабочий край, 1918, 2 окт.</font></td>
+							<td><font size="+1">Р® С‘С‚СЋСЃСЋС„С… СЏС…С—СЂС’С€. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1918, 2 СЋСЉС’.</font></td>
 							<td width="35"><a href="../Texts/RK181002.pdf" title="Freedom of Press 1918"><font size="+1">Pdf</font></a></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1918</font></td>
-							<td><font size="+1">Коммунизм, церковь и государство. - Рабочий край, 1918, 7 декабря.</font></td>
+							<td><font size="+1">РЄСЋСЊСЊС“СЌС€С‡СЊ, С–С…в„–СЉСЋС‚Сњ С€ СѓСЋС‘С“С„СЂв„–С‘С’С‚СЋ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1918, 7 С„С…СЉСЂСЃв„–Сџ.</font></td>
 							<td width="35"><a href="../Texts/church18r.pdf" title="Communism, Church, State 1918"><font size="+1">Pdf</font></a></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1919</font></td>
-							<td><font size="+1">Красная губерния. - Рабочий край, 1919, 28 дек.</font></td>
+							<td><font size="+1">РЄв„–СЂС‘СЌСЂСџ СѓС“СЃС…в„–СЌС€Сџ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1919, 28 С„С…СЉ.</font></td>
 							<td width="35"><a href="../Texts/RedProv19r.pdf" title="Red Province 1919"><font size="+1">Pdf</font></a></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">П. Милюков о русской революции. - Рабочий край, 1920, 17, 20 апр.</font></td>
+							<td><font size="+1">РЇ. Р¬С€С‹СћСЉСЋС‚ СЋ в„–С“С‘С‘СЉСЋС‰ в„–С…С‚СЋС‹СћС–С€С€. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 17, 20 СЂСЏв„–.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Miliukov on the Russian Revolution 1920" href="../Texts/RK200417.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Н. Ленин: К пятидесяилетию со дня рожедения. - Рабочий край, 1920, 23 апр.</font></td>
+							<td><font size="+1">Р­. Р«С…СЌС€СЌ: РЄ СЏСџС’С€С„С…С‘СџС€С‹С…С’С€Сћ С‘СЋ С„СЌСџ в„–СЋС†С…С„С…СЌС€Сџ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 23 СЂСЏв„–.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="N. Lenin 1920" href="../Texts/RK200423.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Н. Ленин и крестьянство. - Рабочий край, 1920, 24 апр.</font></td>
+							<td><font size="+1">Р­. Р«С…СЌС€СЌ С€ СЉв„–С…С‘С’СњСџСЌС‘С’С‚СЋ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 24 СЂСЏв„–.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="N. Lenin 1920" href="../Texts/RK200423.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Памяти Г. В. Плеханова. - Рабочий край, 1920, 30 мая.</font></td>
+							<td><font size="+1">РЇСЂСЊСџС’С€ РЈ. Рў. РЇС‹С…С•СЂСЌСЋС‚СЂ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 30 СЊСЂСџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="In Memory of G. V. Plekhanov 1920" href="../Texts/RK200530a.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Г. В. Плеханов (1918-1920). - Рабочий край, 1920, 30 мая.</font></td>
+							<td><font size="+1">РЈ. Рў. РЇС‹С…С•СЂСЌСЋС‚ (1918-1920). - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 30 СЊСЂСџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="G. V. Plekhanov 1920" href="../Texts/RK200530b.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Очередные задачи. - Рабочий край, 1920, 23, 27 июня.</font></td>
+							<td><font size="+1">Р®С—С…в„–С…С„СЌС›С… С‡СЂС„СЂС—С€. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 23, 27 С€СћСЌСџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Impending Issues 1920" href="../Texts/RK200623.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Искореняйте дезертирство. - Рабочий край, 1920, 26 июня.</font></td>
+							<td><font size="+1">РЁС‘СЉСЋв„–С…СЌСџС‰С’С… С„С…С‡С…в„–С’С€в„–С‘С’С‚СЋ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 26 С€СћСЌСџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Uproot Desertion 1920" href="../Texts/RK200626.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">На одре страданий. - Рабочий край, 1920, 30 июня.</font></td>
+							<td><font size="+1">Р­СЂ СЋС„в„–С… С‘С’в„–СЂС„СЂСЌС€С‰. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 30 С€СћСЌСџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Na odre stradanii 1920" href="../Texts/RK200630.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">На помощь больным и раненым красноармейцам. - Рабочий край, 1920, 3 июля.</font></td>
+							<td><font size="+1">Р­СЂ СЏСЋСЊСЋС™Сњ СЃСЋС‹СњСЌС›СЊ С€ в„–СЂСЌС…СЌС›СЊ СЉв„–СЂС‘СЌСЋСЂв„–СЊС…С‰С–СЂСЊ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 3 С€СћС‹Сџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Help the Sick and Wounded Red Army Soldiers 1920" href="../Texts/RK200703.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Всегда наготове. - Рабочий край, 1920, 7 июля.</font></td>
+							<td><font size="+1">РўС‘С…СѓС„СЂ СЌСЂСѓСЋС’СЋС‚С…. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 7 С€СћС‹Сџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Always Ready 1920" href="../Texts/RK200707.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Победа под Ровно. - Рабочий край, 1920, 8 июля.</font></td>
+							<td><font size="+1">РЇСЋСЃС…С„СЂ СЏСЋС„ Р°СЋС‚СЌСЋ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 8 С€СћС‹Сџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Victory at Rovno 1920" href="../Texts/RK200708.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Совещание. - Рабочий край, 1920, 10 июля.</font></td>
+							<td><font size="+1">Р±СЋС‚С…С™СЂСЌС€С…. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 10 С€СћС‹Сџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="A Conference 1920" href="../Texts/RK200710.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">По поводу приезда иностранных товарищей. - Рабочий край, 1920, 14 июля.</font></td>
+							<td><font size="+1">РЇСЋ СЏСЋС‚СЋС„С“ СЏв„–С€С…С‡С„СЂ С€СЌСЋС‘С’в„–СЂСЌСЌС›С• С’СЋС‚СЂв„–С€С™С…С‰. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 14 С€СћС‹Сџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="On the Arrival of Foreign Comrades 1920" href="../Texts/RK200714.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Приезд иностранной рабочей делегации. - Рабочий край, 1920, 15, 16 июля.</font></td>
+							<td><font size="+1">РЇв„–С€С…С‡С„ С€СЌСЋС‘С’в„–СЂСЌСЌСЋС‰ в„–СЂСЃСЋС—С…С‰ С„С…С‹С…СѓСЂС–С€С€. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 15, 16 С€СћС‹Сџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Arrival of a Foreign Workers' Delegation 1920" href="../Texts/RK200715.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Второй Конгресс III Интернационала. - Рабочий край, 1920, 17 июля.</font></td>
+							<td><font size="+1">РўС’СЋв„–СЋС‰ РЄСЋСЌСѓв„–С…С‘С‘ III РЁСЌС’С…в„–СЌСЂС–С€СЋСЌСЂС‹СЂ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 17 С€СћС‹Сџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Second Congress of the III International 1920" href="../Texts/RK200717.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Наши оптимисты. - Рабочий край, 1920, 21 июля.</font></td>
+							<td><font size="+1">Р­СЂСС€ СЋСЏС’С€СЊС€С‘С’С›. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 21 С€СћС‹Сџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Our Optimists 1920" href="../Texts/RK200721.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Будьте на страже теперь, как никогда. - Рабочий край, 1920, 22 июля.</font></td>
+							<td><font size="+1">РЎС“С„СњС’С… СЌСЂ С‘С’в„–СЂС†С… С’С…СЏС…в„–Сњ, СЉСЂСЉ СЌС€СЉСЋСѓС„СЂ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 22 С€СћС‹Сџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Be On Guard Now, Like Never Before 1920" href="../Texts/RK200722.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Почему мы отказываемся от посредничества Керзона. - Рабочий край, 1920, 25 июля.</font></td>
+							<td><font size="+1">РЇСЋС—С…СЊС“ СЊС› СЋС’СЉСЂС‡С›С‚СЂС…СЊС‘Сџ СЋС’ СЏСЋС‘в„–С…С„СЌС€С—С…С‘С’С‚СЂ РЄС…в„–С‡СЋСЌСЂ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 25 С€СћС‹Сџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Why We Refuse Curzon's Mediation 1920" href="../Texts/RK200725.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">По поводу одного слуха. - Рабочий край, 1920, 31 июля.</font></td>
+							<td><font size="+1">РЇСЋ СЏСЋС‚СЋС„С“ СЋС„СЌСЋСѓСЋ С‘С‹С“С•СЂ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 31 С€СћС‹Сџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Regarding a Rumor 1920" href="../Texts/RK200731.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">У ворот Запада. - Рабочий край, 1920, 31 июля.</font></td>
+							<td><font size="+1">Рі С‚СЋв„–СЋС’ Р§СЂСЏСЂС„СЂ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 31 С€СћС‹Сџ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="At the Gates to the West 1920" href="../Texts/RK200731b.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Врангель и Махно. - Рабочий край, 1920, 1 авг.</font></td>
+							<td><font size="+1">Рўв„–СЂСЌСѓС…С‹Сњ С€ Р¬СЂС•СЌСЋ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 1 СЂС‚Сѓ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Wrangel and Makhno 1920" href="../Texts/RK200801.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Заметки. - Рабочий край, 1920, 4 авг.</font></td>
+							<td><font size="+1">Р§СЂСЊС…С’СЉС€. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 4 СЂС‚Сѓ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Notes 1920" href="../Texts/RK200804.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Польский ревком и местные перспективы. - Рабочий край, 1920, 6 авг.</font></td>
+							<td><font size="+1">РЇСЋС‹СњС‘СЉС€С‰ в„–С…С‚СЉСЋСЊ С€ СЊС…С‘С’СЌС›С… СЏС…в„–С‘СЏС…СЉС’С€С‚С›. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 6 СЂС‚Сѓ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="The Polish RevCom and Peace Perspectives 1920" href="../Texts/RK200806.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Долой разум! - Рабочий край, 1920, 18 авг.</font></td>
+							<td><font size="+1">Р¤СЋС‹СЋС‰ в„–СЂС‡С“СЊ! - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 18 СЂС‚Сѓ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Down with Reason! 1920" href="../Texts/RK200818.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Положение на фронтах. - Рабочий край, 1920, 22 авг.</font></td>
+							<td><font size="+1">РЇСЋС‹СЋС†С…СЌС€С… СЌСЂ С”в„–СЋСЌС’СЂС•. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 22 СЂС‚Сѓ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Situation at the Fronts 1920" href="../Texts/RK200822.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">К мирным переговорам с Англией. - Рабочий край, 1920, 5 сент.</font></td>
+							<td><font size="+1">РЄ СЊС€в„–СЌС›СЊ СЏС…в„–С…СѓСЋС‚СЋв„–СЂСЊ С‘ Р СЌСѓС‹С€С…С‰. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 5 С‘С…СЌС’.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Towards Peace Negotiations with England 1920" href="../Texts/RK200905.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Германия и Советская Россия. - Рабочий край, 1920, 12 сент.</font></td>
+							<td><font size="+1">РЈС…в„–СЊСЂСЌС€Сџ С€ Р±СЋС‚С…С’С‘СЉСЂСџ Р°СЋС‘С‘С€Сџ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 12 С‘С…СЌС’.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Germany and Soviet Russia 1920" href="../Texts/RK200912.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Нельзя медлить. - Рабочий край, 1920, 5 окт.</font></td>
+							<td><font size="+1">Р­С…С‹СњС‡Сџ СЊС…С„С‹С€С’Сњ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 5 СЋСЉС’.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="There Can Be No Delay 1920" href="../Texts/RK201005.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Фронт Врангеля и новые происки союзников. - Рабочий край, 1920, 6 окт.</font></td>
+							<td><font size="+1">Рґв„–СЋСЌС’ Рўв„–СЂСЌСѓС…С‹Сџ С€ СЌСЋС‚С›С… СЏв„–СЋС€С‘СЉС€ С‘СЋСћС‡СЌС€СЉСЋС‚. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 6 СЋСЉС’.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="The Wrangel Front and New Allied Intrigues 1920" href="../Texts/RK201006.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">К итогам очередной сессии ВЦИК. - Рабочий край, 1920, 7 окт.</font></td>
+							<td><font size="+1">РЄ С€С’СЋСѓСЂСЊ СЋС—С…в„–С…С„СЌСЋС‰ С‘С…С‘С‘С€С€ РўР¶РЁРЄ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 7 СЋСЉС’.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Results of the Last Session of VTsIK 1920" href="../Texts/RK201007a.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Мир с Польшей и Финляндией. - Рабочий край, 1920, 7 окт.</font></td>
+							<td><font size="+1">Р¬С€в„– С‘ РЇСЋС‹СњСС…С‰ С€ РґС€СЌС‹СџСЌС„С€С…С‰. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 7 СЋСЉС’.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Peace with Poland and Finland 1920" href="../Texts/RK201007b.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Предварительный мир с Польши. - Рабочий край, 1920, 15 окт.</font></td>
+							<td><font size="+1">РЇв„–С…С„С‚СЂв„–С€С’С…С‹СњСЌС›С‰ СЊС€в„– С‘ РЇСЋС‹СњСС€. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 15 СЋСЉС’.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Preliminary Peace with Poland 1920" href="../Texts/RK201015.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Условия мира. - Рабочий край, 1920, 16 окт.</font></td>
+							<td><font size="+1">РіС‘С‹СЋС‚С€Сџ СЊС€в„–СЂ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 16 СЋСЉС’.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Peace Terms 1920" href="../Texts/RK201016.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">«РОСТА». - Рабочий край, 1920, 17 окт.</font></td>
+							<td><font size="+1">Р‹Р°Р®Р±РІР Р›. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 17 СЋСЉС’.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="ROSTA 1920" href="../Texts/RK201017.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Гарантии мира. - Рабочий край, 1920, 19 окт.</font></td>
+							<td><font size="+1">РЈСЂв„–СЂСЌС’С€С€ СЊС€в„–СЂ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 19 СЋСЉС’.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Peace Guarantees 1920" href="../Texts/RK201019a.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Клара Цеткин. - Рабочий край, 1920, 19 окт.</font></td>
+							<td><font size="+1">РЄС‹СЂв„–СЂ Р¶С…С’СЉС€СЌ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 19 СЋСЉС’.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Arrival of Klara Zetkin 1920" href="../Texts/RK201019b.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Борис Савинков. - Рабочий край, 1920, 21 окт.</font></td>
+							<td><font size="+1">РЎСЋв„–С€С‘ Р±СЂС‚С€СЌСЉСЋС‚. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 21 СЋСЉС’.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Boris Savinkov 1920" href="../Texts/RK201021a.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Собрание Гор. Совдепа. - Рабочий край, 1920, 21 окт.</font></td>
+							<td><font size="+1">Р±СЋСЃв„–СЂСЌС€С… РЈСЋв„–. Р±СЋС‚С„С…СЏСЂ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 21 СЋСЉС’.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Meeting of the City Council of Deputies 1920" href="../Texts/RK201021b.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Контрреволюционная возня. - Рабочий край, 1920, 29 окт.</font></td>
+							<td><font size="+1">РЄСЋСЌС’в„–в„–С…С‚СЋС‹СћС–С€СЋСЌСЌСЂСџ С‚СЋС‡СЌСџ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 29 СЋСЉС’.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Counter-Revolutionary Intrigues 1920" href="../Texts/RK201029.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Политические заметки. - Рабочий край, 1920, 31 окт.</font></td>
+							<td><font size="+1">РЇСЋС‹С€С’С€С—С…С‘СЉС€С… С‡СЂСЊС…С’СЉС€. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 31 СЋСЉС’.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Political Notes 1920" href="../Texts/RK201031.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Залезли в трясину. - Рабочий край, 1920, 3 нояб.</font></td>
+							<td><font size="+1">Р§СЂС‹С…С‡С‹С€ С‚ С’в„–СџС‘С€СЌС“. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 3 СЌСЋСџСЃ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Into the Quagmire 1920" href="../Texts/RK201103.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Врангель и Фрунзе. - Рабочий край, 1920, 7 нояб.</font></td>
+							<td><font size="+1">Рўв„–СЂСЌСѓС…С‹Сњ С€ Рґв„–С“СЌС‡С…. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 7 СЌСЋСџСЃ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Wrangel and Frunze 1920" href="../Texts/RK201107a.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Три года. - Рабочий край, 1920, 7 нояб.</font></td>
+							<td><font size="+1">РІв„–С€ СѓСЋС„СЂ. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 7 СЌСЋСџСЃ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Three Years 1920" href="../Texts/RK201107b.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Товарищ Фрунзе. - Рабочий край, 1920, 17 нояб.</font></td>
+							<td><font size="+1">РІСЋС‚СЂв„–С€С™ Рґв„–С“СЌС‡С…. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 17 СЌСЋСџСЃ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Comrade Frunze (Arsenii) 1920" href="../Texts/RK201117.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Без дороги. - Рабочий край, 1920, 21 нояб.</font></td>
+							<td><font size="+1">РЎС…С‡ С„СЋв„–СЋСѓС€. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 21 СЌСЋСџСЃ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Lost Their Way 1920" href="../Texts/RK201121.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Ошеломляющее впечатление. - Рабочий край, 1920, 7 дек.</font></td>
+							<td><font size="+1">Р®СС…С‹СЋСЊС‹СџСћС™С…С… С‚СЏС…С—СЂС’С‹С…СЌС€С…. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 7 С„С…СЉ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="Stunning Impression 1920" href="../Texts/RK201207.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1920</font></td>
-							<td><font size="+1">Новые спасители. - Рабочий край, 1920, 14 дек.</font></td>
+							<td><font size="+1">Р­СЋС‚С›С… С‘СЏСЂС‘С€С’С…С‹С€. - Р°СЂСЃСЋС—С€С‰ СЉв„–СЂС‰, 1920, 14 С„С…СЉ.</font></td>
 							<td width="35"></td>
 							<td width="36"><a title="New Saviors 1920" href="../Texts/RK201214.html"><font size="+1">Html</font></a></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1921</font></td>
-							<td><font size="+1">Распад идеологии. - Красная новь, 1921, № 1, с. 302-304.</font></td>
+							<td><font size="+1">Р°СЂС‘СЏСЂС„ С€С„С…СЋС‹СЋСѓС€С€. - РЄв„–СЂС‘СЌСЂСџ СЌСЋС‚Сњ, 1921, Р™ 1, С‘. 302-304.</font></td>
 							<td width="35"><a href="../Texts/Raspad21r.pdf" title="Raspad 1921"><font size="+1">Pdf</font></a></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1921</font></td>
-							<td><font size="+1">Уэльс о Советской России. - Красная новь, 1921, № 1, с. 292-295.</font></td>
+							<td><font size="+1">РіВ§С‹СњС‘ СЋ Р±СЋС‚С…С’С‘СЉСЋС‰ Р°СЋС‘С‘С€С€. - РЄв„–СЂС‘СЌСЂСџ СЌСЋС‚Сњ, 1921, Р™ 1, С‘. 292-295.</font></td>
 							<td width="35"><a href="../Texts/Wells21r.pdf" title="Wells 1921"><font size="+1">Pdf</font></a></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1922</font></td>
-							<td><font size="+1">Литературные отклики. - Красная новь, 1922, № 2, с. 258-275.</font></td>
+							<td><font size="+1">Р«С€С’С…в„–СЂС’С“в„–СЌС›С… СЋС’СЉС‹С€СЉС€. - РЄв„–СЂС‘СЌСЂСџ СЌСЋС‚Сњ, 1922, Р™ 2, С‘. 258-275.</font></td>
 							<td width="35"><a href="../Texts/KN22_02.pdf" title="Literary Responses 1922"><font size="+1">Pdf</font></a></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1922</font></td>
-							<td><font size="+1">Литературные силуэты: Б. Пильняк. - Красная новь, 1922, № 4, с. 252-269.</font></td>
+							<td><font size="+1">Р«С€С’С…в„–СЂС’С“в„–СЌС›С… С‘С€С‹С“В§С’С›: РЎ. РЇС€С‹СњСЌСџСЉ. - РЄв„–СЂС‘СЌСЂСџ СЌСЋС‚Сњ, 1922, Р™ 4, С‘. 252-269.</font></td>
 							<td width="35"><a href="../Texts/KN22_04.pdf" title="Boris Pilniak 1922"><font size="+1">Pdf</font></a></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1923</font></td>
-							<td><font size="+1">О пролетарском искусстве и о художественной политике нашей партии. - Красная новь, 1923, № 7, с. 257-276.</font></td>
+							<td><font size="+1">Р® СЏв„–СЋС‹С…С’СЂв„–С‘СЉСЋСЊ С€С‘СЉС“С‘С‘С’С‚С… С€ СЋ С•С“С„СЋС†С…С‘С’С‚С…СЌСЌСЋС‰ СЏСЋС‹С€С’С€СЉС… СЌСЂСС…С‰ СЏСЂв„–С’С€С€. - РЄв„–СЂС‘СЌСЂСџ СЌСЋС‚Сњ, 1923, Р™ 7, С‘. 257-276.</font></td>
 							<td width="35"><a href="../Texts/AKV_OnProlArt1923R.pdf" title="On Proletarian Art 1923"><font size="+1">Pdf</font></a></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1924</font></td>
-							<td><font size="+1">У склепа. - Красная новь, 1924, № 1.</font></td>
+							<td><font size="+1">Рі С‘СЉС‹С…СЏСЂ. - РЄв„–СЂС‘СЌСЂСџ СЌСЋС‚Сњ, 1924, Р™ 1.</font></td>
 							<td width="35"><a title="At the Burial Vault 1924" href="../Texts/AKV_U%20sklepa.pdf"><font size="+1">Pdf</font></a></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1924</font></td>
-							<td><font size="+1">Литературные силуэты: I. И. Бабель. - Красная новь, 1924, № 5, стр. 276-291. </font></td>
+							<td><font size="+1">Р«С€С’С…в„–СЂС’С“в„–СЌС›С… С‘С€С‹С“В§С’С›: I. РЁ. РЎСЂСЃС…С‹Сњ. - РЄв„–СЂС‘СЌСЂСџ СЌСЋС‚Сњ, 1924, Р™ 5, С‘С’в„–. 276-291. </font></td>
 							<td width="35"><font size="+1"><a title="Babel 1924" href="http://sovlit.org/akv/Texts/AKV_Babel1924.pdf">Pdf</a></font></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1924</font></td>
-							<td><font size="+1">Литературные силуэты: II. Л. Сейфуллина. - Красная новь, 1924, № 5, стр. 291-300.</font></td>
+							<td><font size="+1">Р«С€С’С…в„–СЂС’С“в„–СЌС›С… С‘С€С‹С“В§С’С›: II. Р«. Р±С…С‰С”С“С‹С‹С€СЌСЂ. - РЄв„–СЂС‘СЌСЂСџ СЌСЋС‚Сњ, 1924, Р™ 5, С‘С’в„–. 291-300.</font></td>
 							<td width="35"><font size="+1"><a title="Seifullina 1924" href="http://sovlit.org/akv/Texts/AKV_Seifullina1924.pdf">Pdf</a></font></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1924</font></td>
-							<td><font size="+1">Полемические заметки. - Красная новь, 1924, № 5, с. 309-321. </font></td>
+							<td><font size="+1">РЇСЋС‹С…СЊС€С—С…С‘СЉС€С… С‡СЂСЊС…С’СЉС€. - РЄв„–СЂС‘СЌСЂСџ СЌСЋС‚Сњ, 1924, Р™ 5, С‘. 309-321. </font></td>
 							<td width="35"><font size="+1"><a title="Polemical Remarks 1924" href="http://sovlit.org/akv/Texts/AKV_PolemicalRemarks1924.pdf">Pdf</a></font></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1924</font></td>
-							<td><font size="+1">Литературные силуэты: Демьян Бедный. - Красная новь, 1924, № 6, стр. 303-328.</font> </td>
+							<td><font size="+1">Р«С€С’С…в„–СЂС’С“в„–СЌС›С… С‘С€С‹С“В§С’С›: Р¤С…СЊСњСџСЌ РЎС…С„СЌС›С‰. - РЄв„–СЂС‘СЌСЂСџ СЌСЋС‚Сњ, 1924, Р™ 6, С‘С’в„–. 303-328.</font> </td>
 							<td width="35"><font size="+1"><a title="Bednyi 1924" href="http://sovlit.org/akv/Texts/AKV_Bednyi1924.pdf">Pdf</a></font> </td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1926</font></td>
-							<td><font size="+1">Мистер Бритлинг пьет чашу до дна: О новонапостовских упражнениях. - Красная новь, 1926, № 5, с. 195-203.</font></td>
+							<td><font size="+1">Р¬С€С‘С’С…в„– РЎв„–С€С’С‹С€СЌСѓ СЏСњС…С’ С—СЂСС“ С„СЋ С„СЌСЂ: Р® СЌСЋС‚СЋСЌСЂСЏСЋС‘С’СЋС‚С‘СЉС€С• С“СЏв„–СЂС†СЌС…СЌС€СџС•. - РЄв„–СЂС‘СЌСЂСџ СЌСЋС‚Сњ, 1926, Р™ 5, С‘. 195-203.</font></td>
 							<td width="35"><font size="+1"><a title="Mister Britling 1926" href="../Texts/AKV_Britling1926.pdf">Pdf</a></font></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1927</font></td>
-							<td><font size="+1">Заметки о художественном творчестве. - Новый мир, 1927, № 8, стр. 160-169. [Part I] </font></td>
+							<td><font size="+1">Р§СЂСЊС…С’СЉС€ СЋ С•С“С„СЋС†С…С‘С’С‚С…СЌСЌСЋСЊ С’С‚СЋв„–С—С…С‘С’С‚С…. - Р­СЋС‚С›С‰ СЊС€в„–, 1927, Р™ 8, С‘С’в„–. 160-169. [Part I] </font></td>
 							<td width="35"><font size="+1"><a title="Notes on Artistic Creativity I 1927" href="http://sovlit.org/akv/Texts/AKV_Zametki1.pdf">Pdf</a></font></td>
 							<td width="36"></td>
 						</tr>
 						<tr>
 							<td width="50"><font size="+1">1927</font></td>
-							<td><font size="+1">Заметки о художественном творчестве [окончание]. - Новый мир, 1927, № 9, стр. 177-186. </font></td>
+							<td><font size="+1">Р§СЂСЊС…С’СЉС€ СЋ С•С“С„СЋС†С…С‘С’С‚С…СЌСЌСЋСЊ С’С‚СЋв„–С—С…С‘С’С‚С… [СЋСЉСЋСЌС—СЂСЌС€С…]. - Р­СЋС‚С›С‰ СЊС€в„–, 1927, Р™ 9, С‘С’в„–. 177-186. </font></td>
 							<td width="35"><font size="+1"><a title="Notes on Artistic Creativity II 1927" href="../Texts/AKV_Zametki2.pdf">Pdf</a></font></td>
 							<td width="36"></td>
 						</tr>

@@ -55,12 +55,12 @@
 						</tr>
 						<tr>
 							<td width="53"><font size="+1">1911</font></td>
-							<td><font size="+1">Publizistische Skizzen über Gorki, I</font></td>
+							<td><font size="+1">Publizistische Skizzen Ã¼ber Gorki, I</font></td>
 							<td width="98"><font size="+1">Pdf file</font></td>
 						</tr>
 						<tr>
 							<td width="53"><font size="+1">1911</font></td>
-							<td><font size="+1">Publizistische Skizzen über Gorki, II</font></td>
+							<td><font size="+1">Publizistische Skizzen Ã¼ber Gorki, II</font></td>
 							<td width="98"><font size="+1">Pdf file</font></td>
 						</tr>
 						<tr>
@@ -90,7 +90,7 @@
 						</tr>
 						<tr>
 							<td width="53"><font size="+1">1921</font></td>
-							<td><font size="+1">H. G. Wells über Sowjetrussland</font></td>
+							<td><font size="+1">H. G. Wells Ã¼ber Sowjetrussland</font></td>
 							<td width="98"><font size="+1">Pdf file</font></td>
 						</tr>
 						<tr>
@@ -100,7 +100,7 @@
 						</tr>
 						<tr>
 							<td width="53"><font size="+1">1923</font></td>
-							<td><font size="+1">Über eine forsche Phrase und die Klassiker</font></td>
+							<td><font size="+1">Ãœber eine forsche Phrase und die Klassiker</font></td>
 							<td width="98"><font size="+1">Pdf file</font></td>
 						</tr>
 						<tr>
@@ -110,7 +110,7 @@
 						</tr>
 						<tr>
 							<td width="53"><font size="+1">1923</font></td>
-							<td><font size="+1">Über proletarische Kunst und über die Kunstpolitik unserer Partei.</font></td>
+							<td><font size="+1">Ãœber proletarische Kunst und Ã¼ber die Kunstpolitik unserer Partei.</font></td>
 							<td width="98"><font size="+1">Pdf file</font></td>
 						</tr>
 						<tr>
@@ -120,7 +120,7 @@
 						</tr>
 						<tr>
 							<td width="53"><font size="+1">1925</font></td>
-							<td><font size="+1">Über Kunst</font></td>
+							<td><font size="+1">Ãœber Kunst</font></td>
 							<td width="98"><font size="+1">Pdf file</font></td>
 						</tr>
 						<tr>
@@ -150,7 +150,7 @@
 						</tr>
 						<tr>
 							<td width="53"><font size="+1">1927</font></td>
-							<td><font size="+1">Bemerkungen zum künstlerischen Schaffen</font></td>
+							<td><font size="+1">Bemerkungen zum kÃ¼nstlerischen Schaffen</font></td>
 							<td width="98"><font size="+1">Pdf file</font></td>
 						</tr>
 						<tr>
@@ -165,7 +165,7 @@
 						</tr>
 						<tr>
 							<td width="53"><font size="+1">1928</font></td>
-							<td><font size="+1">Über künstlerische Wahrheit</font></td>
+							<td><font size="+1">Ãœber kÃ¼nstlerische Wahrheit</font></td>
 							<td width="98"><font size="+1">Pdf file</font></td>
 						</tr>
 						<tr>
@@ -175,12 +175,12 @@
 						</tr>
 						<tr>
 							<td width="53"><font size="+1">1930</font></td>
-							<td><font size="+1">Über Perewal</font></td>
+							<td><font size="+1">Ãœber Perewal</font></td>
 							<td width="98"><font size="+1">Pdf file</font></td>
 						</tr>
 						<tr>
 							<td width="53"><font size="+1">1936</font></td>
-							<td><font size="+1">Begegnungen und Gespräche mit Gorki</font></td>
+							<td><font size="+1">Begegnungen und GesprÃ¤che mit Gorki</font></td>
 							<td width="98"><font size="+1">Pdf file</font></td>
 						</tr>
 						<tr>
