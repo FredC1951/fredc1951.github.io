@@ -86,4 +86,4 @@ Throughout the bibliography, texts that are available on this site have been mar
   Мистер Бритлинг пьет чашу до дна: О новонапостовских упражнениях. – Красная новь, 1926, № 5, с. 195-203. [Pdf](Texts/AKV_Britling1926.pdf)
 - **1927**
   - Заметки о художественном творчестве. – Новый мир, 1927, № 8, стр. 160-169. [Part I] [Pdf](Texts/AKV_Zametki1.pdf)
-  - Заметки о художественном творчестве [окончание]. – Новый мир, 1927, № 9, стр. 177-186.  [Pdf](Texts/AKV_Zametki2.pdf
+  - Заметки о художественном творчестве [окончание]. – Новый мир, 1927, № 9, стр. 177-186.  [Pdf](Texts/AKV_Zametki2.pdf)
