@@ -7,7 +7,7 @@ section: akv
 ## Select by Year Published
 
 | | [1911](BiblioArt1911.html) | [1912](BiblioArt1911.html#1912) | 1913 | 1914 | 1915 | 1916 | [1917](BiblioArt1917.html) | [1918](BiblioArt1918.html#Anchor-191-59248) | [1919](BiblioArt1919.html) |
-| [1920](BiblioArt1920.html) | [1921](BiblioArt1921.html) | [1922](BiblioArt1922.html) | [1923](BiblioArt1923.html) | [1924](BiblioArt1924.html) | [1925](BiblioArt1925.html#Anchor-192-26384) | [1926](BiblioArt1926.html#Anchor-192-1860) | [1927]("BiblioArt1927.html#Anchor-192-26164) | [1928](BiblioArt1928.html#Anchor-192-63419) | [1929](BiblioArt1929_1937.html#Anchor-192-38673) |
+| [1920](BiblioArt1920.html) | [1921](BiblioArt1921.html) | [1922](BiblioArt1922.html) | [1923](BiblioArt1923.html) | [1924](BiblioArt1924.html) | [1925](BiblioArt1925.html) | [1926](BiblioArt1926.html#Anchor-192-1860) | [1927]("BiblioArt1927.html#Anchor-192-26164) | [1928](BiblioArt1928.html#Anchor-192-63419) | [1929](BiblioArt1929_1937.html#Anchor-192-38673) |
 | 1930 | [1931](BiblioArt1929_1937.html#Anchor-193-15680) | 1932 | [1933](BiblioArt1929_1937.html#Anchor-193-696) | [1934](BiblioArt1929_1937.html#Anchor-193-11359) | 1935 | 1936 | 1937 | | |
 | 1960 | 1961 | 1962 | 1963 | 1964 | 1965 | 1966 | 1967 | 1968 | 1969 |							
 | 1970 | 1971 | 1972 | 1973 | 1974 | 1975 | 1976 | 1977 | 1978 | 1979 |							
