@@ -18,7 +18,7 @@ section: akv
 # Material aboutVoronsky
 ## Select by Year Published
 
-| | | | | | | | | [1918](BiblioAbout1918.html#Anchor-191-26116) | [1919](BiblioAbout1918.html#Anchor-191-12932) |
+| | | | | | | | | [1918](BiblioAbout1918.html) | [1919](BiblioAbout1918.html#Anchor-191-12932) |
 | [1920](BiblioAbout1918.html#Anchor-192-63357) | [1921](BiblioAbout1918.html#Anchor-192-42573) | [1922](BiblioAbout1918.html#Anchor-192-32165) | [1923](BiblioAbout1923.html) | [1924](BiblioAbout1924.html) | [1925](BiblioAbout1925.html) | [1926](BiblioAbout1926.html) | [1927](BiblioAbout1927.html) | [1928](BiblioAbout1928.html) | [1929](BiblioAbout1929.html) |
 | [1930](BiblioAbout1930.html#Anchor-193-4443) | [1931](BiblioAbout1931.html#Anchor-193-30243) | [1932](BiblioAbout1932.html#Anchor-193-9298) | [1933](BiblioAbout1932.html#Anchor-193-21434) | [1934](BiblioAbout1932.html#Anchor-193-32273) | [1935](BiblioAbout1932.html#Anchor-193-46289) | [1936](BiblioAbout1932.html#Anchor-193-61008) | [1937](BiblioAbout1932.html#Anchor-193-7880) | [1938](BiblioAbout1932.html#Anchor-1938-193-50792) | [1939](BiblioAbout1932.html#Anchor--1938-193-16719) |
 | | | | | | | | | | [1949](BiblioAbout1950s.html#Anchor-194-58526) |
