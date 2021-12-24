@@ -219,7 +219,7 @@ section: akv
 - 1923, July
   Lunacharsky writes letter to Voronsky, to see if their views coincide.
 - 1923, October 15  
-  Signs the &quot;Letter of the 46,&quot; throwing support behind Trotsky's policies. [English translation](Declaration46_231015)
+  Signs the &quot;Letter of the 46,&quot; throwing support behind Trotsky's policies. [English translation](Declaration46_231015.pdf)
 - 1923, December 16  
   Visits Lenin for last time at Gorki.
 - 1924, March 18  
@@ -287,7 +287,7 @@ section: akv
 - 1929 August  
   Babel visits Voronsky in Lipetsk.
 - 1929, September 7 
-  Asks for permission to travel to Moscow [Document](Pages/Documents.html#anchor)
+  Asks for permission to travel to Moscow [Document](Pages/Documents.html)
 - 1929, November 3  
   Statement by Comrades I. N. Smirnov and M. S. Boguslavsky that they are leaving the Opposition.
 - 1929, November 11  

@@ -26,4 +26,4 @@ Click on the titles for larger images.
 | ![](Images/Photos/Lipetsk2909tn.jpg) | [Voronsky in exile in Lipetsk, September 1929.](Pages/Photo_Lipetsk1929.html) |
 | ![](Images/Photos/AKV1937atn.jpg) ![](Images/Photos/AKV1937btn.jpg) | Photos [A](Pages/Photo_AKVarrest1937a.html) and [B](Pages/Photo_AKVarrest1937b.html) taken after arrest by the NKVD on February 1, 1937. Last known photos of Voronsky. |
 
-\| [More Photographs](Photos2.html) \| [Other Images](cartoons.html) \|
+\| [More Photographs](Photos2.html) \| [Other Images](Cartoons.html) \|
