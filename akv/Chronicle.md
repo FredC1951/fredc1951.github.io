@@ -219,7 +219,7 @@ section: akv
 - 1923, July
   Lunacharsky writes letter to Voronsky, to see if their views coincide.
 - 1923, October 15  
-  Signs the &quot;Letter of the 46,&quot; throwing support behind Trotsky's policies. [English translation](Declaration46_231015.pdf)
+  Signs the &quot;Letter of the 46,&quot; throwing support behind Trotsky's policies. [English translation](Texts/Declaration46_231015.pdf)
 - 1923, December 16  
   Visits Lenin for last time at Gorki.
 - 1924, March 18  
