@@ -287,7 +287,7 @@ section: akv
 - 1929 August  
   Babel visits Voronsky in Lipetsk.
 - 1929, September 7 
-  Asks for permission to travel to Moscow [Document](Pages/Documents.html)
+  Asks for permission to travel to Moscow [Document](Documents.html)
 - 1929, November 3  
   Statement by Comrades I. N. Smirnov and M. S. Boguslavsky that they are leaving the Opposition.
 - 1929, November 11  
