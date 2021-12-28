@@ -24,7 +24,7 @@
       <td>
             <li><a href="/akv/Pages/BiblioYearPicker.html">Articles by Year</a></li>
             <li><a href="/akv/Pages/BooksAbout.html">Books and Dissertations</a></li>
-            <li><a href="/akv/Pages/BiblioYearPicker.html">About by Year</a></li>
+            <li><a href="/akv/Pages/BiblioYearPicker.html#material-about-voronsky">About by Year</a></li>
       </td>
       <td>
         <ul>

@@ -28,4 +28,5 @@ section: akv
 | [1980](BiblioAbout1980.html)      | [1981](BiblioAbout1980.html#1981)  | [1982](BiblioAbout1980.html#1982)  | [1983](BiblioAbout1980.html#1983)  | [1984](BiblioAbout1980.html#1984)  | [1985](BiblioAbout1985.html#A1985) | [1986](BiblioAbout1985.html#1986)  | [1987](BiblioAbout1985.html#1987)  | [1988](BiblioAbout1985.html#1988)  | [1989](BiblioAbout1985.html#1989)  |
 | [1990](BiblioAbout1990.html)      | [1991](BiblioAbout1990.html#1991)  | [1992](BiblioAbout1990.html#1992)  | [1993](BiblioAbout1990.html#1993)  | [1994](BiblioAbout1990.html#1994)  | [1995](BiblioAbout1990.html#A1995) | [1996](BiblioAbout1990.html#1996)  | [1997](BiblioAbout1990.html#1997)  | [1998](BiblioAbout1990.html#1998)  | [1999](BiblioAbout1990.html#1999)  |
 | [2000](BiblioAbout2000.html)      | [2001](BiblioAbout2000.html#2001)  | [2002](BiblioAbout2000.html#2002)  | [2003](BiblioAbout2000.html#2003)  | [2004](BiblioAbout2000.html#2004)  | [2005](BiblioAbout2000.html#2005)  | 2006 | | | |
-	
+
+{% include akvBiblioSubNav.md %}
