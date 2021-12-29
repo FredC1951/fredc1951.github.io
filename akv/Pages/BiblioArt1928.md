@@ -21,4 +21,4 @@ section: akv
 - О группе писателей «Кузницы». – В кн.: А. Неверов: Сб. ст., М.: Никитинские субботнки, 1928, с. 153-157.
 - Л. Сейфуллина. – В кн.: Л. Сейфуллина: Сб. ст., М.: Никитинские субботнки, 1928, с. 7-27.
 
-| [Previous Page](BiblioArt1927.html) | [Top of Page](#) | [Next Page](BiblioArt1929_1937.html)
+| [Previous Page](BiblioArt1927.html) | [Top of Page](#) | [Next Page](BiblioArt1929_1937.html) |

@@ -25,5 +25,5 @@ section: akv
 ### 1912
 [Отчет о Пражской конференции], «Рабочая газета», 17 марта 1912 г., № 8, в книге: Воробченко, В. И. Публицист-ленинец, Кишинев, 1986, стр. 36-37. [Pdf](../Texts/AKV_Otchet1912.pdf)
 
-| [Top of Page](#) | [Next Page](BiblioArt1917.html)
+| [Top of Page](#) | [Next Page](BiblioArt1917.html) |
 

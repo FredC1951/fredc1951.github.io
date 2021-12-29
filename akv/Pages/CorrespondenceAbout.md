@@ -20,5 +20,5 @@ biography.
 ### 1928
 Л. Сейфуллина – В. П. Полонскому, 22 декабря 1928 г., РГАЛИ, ф. 1328, оп. 1, д. 309, л. 8.
 
-| [Bibliography](../Bibliography.html) | [Top of Page](#) | [Voronsky's Correspondence](Correspondence_AKV.html)
+| [Bibliography](../Bibliography.html) | [Top of Page](#) | [Voronsky's Correspondence](Correspondence_AKV.html) |
 

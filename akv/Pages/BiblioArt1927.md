@@ -26,4 +26,4 @@ section: akv
 - Один оглушительный аплодисмент. – В. кн.: Круг: Альманах, 1927, вып. VI.
 - Сергей Есенин. – В кн.: Есенин С. Собрание стихотворений. М., 1927, т. 2, с. 2-56.
 
-| [Previous Page](BiblioArt1926.html) | [Top of Page](#) | [Next Page](BiblioArt1928.html)
+| [Previous Page](BiblioArt1926.html) | [Top of Page](#) | [Next Page](BiblioArt1928.html) |

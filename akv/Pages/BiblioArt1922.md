@@ -30,4 +30,4 @@ section: akv
 - Из жизни книг, Коммунистическое просвещение, 1922, № 3, стр. 23-24.
 - Выступление по поводу современного состояния литературы. - В кн.: Интеллиганция и революция. М., 1922.
 
-| [Previous Page](BiblioArt1921.html) | [Top of Page](#) | [Next Page](BiblioArt1923.html)
+| [Previous Page](BiblioArt1921.html) | [Top of Page](#) | [Next Page](BiblioArt1923.html) |

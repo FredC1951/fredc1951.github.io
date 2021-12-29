@@ -62,5 +62,5 @@ section: akv
 - Тамарченко Д. Основные вопросы марксистской критики. - Литературная учеба, 1931, № 7, с. 71-85; № 8, с. 53-69; № 9, с. 47-65; № 10, с. 3-18.
 - Тамарченко Д., Танин Н. Напостовство или воронщина. - Печать и революция, 1931, № 5-6, с. 40-47.
 
-| [Previous Page](BiblioAbout1930.html) | [Top of Page](#) | [Next Page](BiblioAbout1932.html)
+| [Previous Page](BiblioAbout1930.html) | [Top of Page](#) | [Next Page](BiblioAbout1932.html) |
 

@@ -99,5 +99,5 @@ section: akv
 - В те дни. В кн.: Сноп: Сб. стихов и рассказов. Иваново-Вознесенск, 1920, с. 57-60.
 - За осажденный лагерь. – В кн.: Сноп: Сб. стихов и рассказаов. Иваново-Вознесенск, 1920, с. 5-7.
 
-| [Previous Page](BiblioArt1919.html) | [Top of Page](#) | [Next Page](BiblioArt1921.html)
+| [Previous Page](BiblioArt1919.html) | [Top of Page](#) | [Next Page](BiblioArt1921.html) |
 

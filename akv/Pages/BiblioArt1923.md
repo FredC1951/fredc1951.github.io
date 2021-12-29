@@ -29,4 +29,4 @@ section: akv
 - Дела литературные. – Прожектор, 1923, № 22, с. 20-22.
 - Классовое и общечеловеческое в «Капитанской дочке» Пушкина. – В. кн.: Искусство и литература в марксистском освещении: Сб., М., 1925, т. 2.
 
-| [Previous Page](BiblioArt1922.html) | [Top of Page](#) | [Next Page](BiblioArt1924.html)
+| [Previous Page](BiblioArt1922.html) | [Top of Page](#) | [Next Page](BiblioArt1924.html) |

@@ -57,4 +57,4 @@ section: akv
 - Чумандрина М. Иллюзии проходят, факты остаются. – На литературном посту, 1930, № 21-22, с. 20-21.
 - Эльсберг Ж. Кризис попутчиков и настроение интеллигенции. – Л.: Прибой, 1930.</font></td>
 
-| [Previous Page](BiblioAbout1929.html) | [Top of Page](#) | [Next Page](BiblioAbout1931.html)
+| [Previous Page](BiblioAbout1929.html) | [Top of Page](#) | [Next Page](BiblioAbout1931.html) |

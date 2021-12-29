@@ -235,5 +235,5 @@ section: akv
 - Решительные дни. – Рабочий край, 1919, 30 дек.
 - Из записной книжки агитатора. – Рабочий край, 1919, 31 дек.
 
-| [Previous Page](BiblioArt1918.html) | [Top of Page](#) | [Next Page](BiblioArt1920.html)
+| [Previous Page](BiblioArt1918.html) | [Top of Page](#) | [Next Page](BiblioArt1920.html) |
 

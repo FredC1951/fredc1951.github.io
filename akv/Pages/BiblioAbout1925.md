@@ -66,4 +66,4 @@ section: akv
 - Фурманов Д. Фрунзе. – Красная новь, 1925, № 10, с. 186, 187.
 - Хмара А. Сермяжный язык. – Молодая гвардия, 1925, № 2-3, с. 245.
 
-| [Previous Page](BiblioAbout1924.html) | [Top of Page](#) | [Next Page](BiblioAbout1926.html)
+| [Previous Page](BiblioAbout1924.html) | [Top of Page](#) | [Next Page](BiblioAbout1926.html) |

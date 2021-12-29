@@ -41,4 +41,4 @@ section: akv
 - Ефремов Э. П. Александр Константинович Воронский: Библиографический указатель. – Тамбов, 1984.
 - Иванова Тамара. Мои современники, какими я их знала. – М.: Сов. писатель, 1984.
 
-| [Previous Page](BiblioAbout1975.html) | [Top of Page](#) | [Next Page](BiblioAbout1985.html)
+| [Previous Page](BiblioAbout1975.html) | [Top of Page](#) | [Next Page](BiblioAbout1985.html) |

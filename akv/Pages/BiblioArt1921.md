@@ -34,4 +34,4 @@ section: akv
 - Перегруппировка сил. – В кн.: Начало: Альманах, 1921, № 1.
 - Иностранные делегаты в Иваново-Вознесенске. – В кн.: Иваново-Вознесенский губернский ежегодник. Иваново-Вознесенск, 1921, с. 62-69.
 
-| [Previous Page](BiblioArt1920.html) | [Top of Page](#) | [Next Page](BiblioArt1922.html)
+| [Previous Page](BiblioArt1920.html) | [Top of Page](#) | [Next Page](BiblioArt1922.html) |

@@ -40,5 +40,5 @@ section: akv
 - О радиотелграфе. - Голос пролетариата, 1917, 30 нояб.
 - Клевета. Новая федерация: (Политические заметки). – Голос пролетариата, 1917, 24 дек.
 
-| [Previous Page](BiblioArt1911.html) | [Top of Page](#) | [Next Page](BiblioArt1918.html)
+| [Previous Page](BiblioArt1911.html) | [Top of Page](#) | [Next Page](BiblioArt1918.html) |
 

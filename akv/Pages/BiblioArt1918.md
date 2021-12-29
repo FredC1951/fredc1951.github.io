@@ -115,5 +115,5 @@ section: akv
 - К делу! – Рабочий край, 1918, 29 дек.
 - Новые скрижали. – Рабочий край, 1918, 29 дек.</font></td>
 
-| [Previous Page](BiblioArt1917.html) | [Top of Page](#) | [Next Page](BiblioArt1919.html)
+| [Previous Page](BiblioArt1917.html) | [Top of Page](#) | [Next Page](BiblioArt1919.html) |
 

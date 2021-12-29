@@ -58,4 +58,4 @@ section: akv
 - Федоровский Н. М. Свеаборгское восстание (из воспоминаний), «Красная новь», 1926, № 3, стр. 159-173.
 - Цингатов А. Новая русская литература в свете марксистской критики. – Родной яз. в школе, 1926, № 5, с. 29-34.
 
-| [Previous Page](BiblioAbout1925.html) | [Top of Page](#) | [Next Page](BiblioAbout1926.html)
+| [Previous Page](BiblioAbout1925.html) | [Top of Page](#) | [Next Page](BiblioAbout1926.html) |

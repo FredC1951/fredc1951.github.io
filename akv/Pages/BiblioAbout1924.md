@@ -60,4 +60,4 @@ section: akv
 - Югов М. Материалы Одесского истпарта о Ленине. – Коммунист, 1924, № 33, с. 34.
 - Якубовский Г. Марксизм на литературном фронте. – Рабочий журнал, 1924, № 1.
 
-| [Previous Page](BiblioAbout1923.html) | [Top of Page](#) | [Next Page](BiblioAbout1925.html)
+| [Previous Page](BiblioAbout1923.html) | [Top of Page](#) | [Next Page](BiblioAbout1925.html) |

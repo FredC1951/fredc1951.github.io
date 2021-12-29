@@ -25,4 +25,4 @@ section: akv
 ### 1935
 - Три повести, М., Советский Писатель, 1935.
 
-| [Previous Page](BiblioArt1928.html) | [Top of Page](#) 
+| [Previous Page](BiblioArt1928.html) | [Top of Page](#)  |

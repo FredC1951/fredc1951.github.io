@@ -27,5 +27,5 @@ section: akv
 - А. С. Новиков-Прибой. – В кн.: Новиков-Прибой А. С. Собрание сочинений. Харьков, 1926.
 - Полемические заметки. – В кн.: Пролетариат и литратура. М.; Л., 1926.
 
-| [Previous Page](BiblioArt1925.html) | [Top of Page](#) | [Next Page](BiblioArt1927.html)
+| [Previous Page](BiblioArt1925.html) | [Top of Page](#) | [Next Page](BiblioArt1927.html) |
 

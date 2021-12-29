@@ -35,4 +35,4 @@ section: akv
 - Троцкий Л. Д. Литература и революция. – М.: Красная новь, 1923.
 - Якубовский Г. Практика и теория в творчестве «Кузницы». – Красная новь, 1923, № 6, с. 332-338.
 
-| [Previous Page](BiblioAbout1918.html) | [Top of Page](#) | [Next Page](BiblioAbout1924.html)
+| [Previous Page](BiblioAbout1918.html) | [Top of Page](#) | [Next Page](BiblioAbout1924.html) |

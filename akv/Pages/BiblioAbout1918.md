@@ -32,4 +32,4 @@ section: akv
 - Лиров М. «Красная новь»: Рубрики литературы и икусства: [Обзор]. – Правда, 1922, 2, 5 апр.
 - Октябрьская революция: Первое пятилетие. – Одесса, 1922, с. 609-611.
 
-| [Previous Page](../Bibliography.html) | [Top of Page](#) | [Next Page](BiblioAbout1923.html)
+| [Previous Page](../Bibliography.html) | [Top of Page](#) | [Next Page](BiblioAbout1923.html) |

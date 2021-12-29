@@ -22,4 +22,4 @@ section: akv
 - Литратура и политика: О кн: К вопросу о политике РКП(б) в художественной литературе. – Прожектор, 1924, № 15, с. 26-29.
 - Литературные заметки. – Правда, 1924, 21 окт.
 
-| [Previous Page](BiblioArt1923.html) | [Top of Page](#) | [Next Page](BiblioArt1925.html)
+| [Previous Page](BiblioArt1923.html) | [Top of Page](#) | [Next Page](BiblioArt1925.html) |
