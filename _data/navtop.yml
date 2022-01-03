@@ -13,6 +13,19 @@ liaitems:
     url: /lia/Biblio.html
   - page: Bibliography About
     url: /lia/BiblioAbout.html
+vppitems:
+  - page: Home
+    url: /vpp/index.html
+  - page: Introduction
+    url: /vpp/Introduction.html
+  - page: Chronicle
+    url: /vpp/Chronicle.html
+  - page: Texts
+    url: /vpp/Texts.html
+  - page: Links
+    url: /vpp/Links.html
+  - page: Bibliography
+    url: /vpp/Biblio.html
 akvitems:
   - page: Home
     url: /akv/index.html

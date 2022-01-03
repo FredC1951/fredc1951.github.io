@@ -12,6 +12,11 @@ layout: default
     | <a href="{{ entry.url }}">{{ entry.page }}</a>
   {% endfor %}
   |
+{% elsif page.section == "vpp" %}
+  {% for entry in site.data.navtop.vppitems %}
+    | <a href="{{ entry.url }}">{{ entry.page }}</a>
+  {% endfor %}
+  |
 {% endif %}
 {% endunless %}
 
