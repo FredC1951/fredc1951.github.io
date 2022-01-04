@@ -36,22 +36,22 @@
 						<tr>
 							<td colspan="3">
 								<div align="center">
-									<h2>Русские тексты</h2>
+									<h2>Р СѓСЃСЃРєРёРµ С‚РµРєСЃС‚С‹</h2>
 								</div>
 							</td>
 						</tr>
 						<tr>
 							<td width="51">
-								<h3>Год</h3>
+								<h3>Р“РѕРґ</h3>
 							</td>
 							<td>
 								<div align="center">
-									<h3>Название</h3>
+									<h3>РќР°Р·РІР°РЅРёРµ</h3>
 								</div>
 							</td>
 							<td width="70">
 								<div align="center">
-									<h3>Файл</h3>
+									<h3>Р¤Р°Р№Р»</h3>
 								</div>
 							</td>
 						</tr>
