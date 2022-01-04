@@ -1,27 +1,10 @@
-<html>
+---
+layout: home
+section: vpp
+---
+# Texts about Polonsky
 
-	<head>
-		<meta http-equiv="content-type" content="text/html;charset=windows-1251">
-		<meta name="generator" content="Adobe GoLive 5">
-		<title>Texts about Polonsky</title>
-	</head>
-
-	<body bgcolor="#ffffff">
-		<table background="../Images/utcback.jpg" cool width="670" height="1054" usegridx usegridy showgridx showgridy gridx="16" gridy="16" border="0" cellpadding="0" cellspacing="0" bgcolor="#cccc99">
-			<tr height="48">
-				<td width="128" height="48" colspan="4"><spacer type="block" width="128" height="48"></td>
-				<td width="17" height="48" valign="top" align="left" xpos="128"><a name="anchor"></a></td>
-				<td content csheight="37" width="378" height="48" valign="top" align="left" xpos="145">
-					<div align="center">
-						<h1><font color="#990000">Texts about Polonsky</font></h1>
-					</div>
-				</td>
-				<td width="146" height="48" colspan="2"><spacer type="block" width="146" height="48"></td>
-				<td width="1" height="48"><spacer type="block" width="1" height="48"></td>
-			</tr>
-			<tr height="48">
-				<td width="113" height="48" colspan="3"><spacer type="block" width="113" height="48"></td>
-				<td content bgcolor="#ffffcc" csheight="48" width="442" height="48" colspan="4" valign="top" align="left" xpos="113"><font size="+1">The following texts contain references to V. P. Polonsky. Wherever possible, English translations are provided.</font></td>
+The following texts contain references to V. P. Polonsky. Wherever possible, English translations are provided.</font></td>
 				<td width="114" height="48"><spacer type="block" width="114" height="48"></td>
 				<td width="1" height="48"><spacer type="block" width="1" height="48"></td>
 			</tr>

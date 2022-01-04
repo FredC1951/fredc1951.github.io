@@ -286,3 +286,5 @@ writings accessible to people who do not know Russian.
 
 ### 1988
 О литературе. Избранные работы, М., Советский писатель, 1988, 496 с. [Обложка](Images/VPP_OLiterature1988_960.jpg) [Содержание](Images/VPP_Soderzhanie1988_960.jpg)
+
+| [Works About Polonsky](BiblioAbout.html) | [Correspondence](Correspondence_VPP.md) |
