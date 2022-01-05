@@ -17,6 +17,11 @@ layout: default
     | <a href="{{ entry.url }}">{{ entry.page }}</a>
   {% endfor %}
   |
+{% elsif page.section == "vav" %}
+  {% for entry in site.data.navtop.vavitems %}
+    | <a href="{{ entry.url }}">{{ entry.page }}</a>
+  {% endfor %}
+  |
 {% endif %}
 {% endunless %}
 
