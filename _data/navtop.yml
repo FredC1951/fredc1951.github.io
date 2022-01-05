@@ -26,19 +26,19 @@ vppitems:
     url: /vpp/Biblio.html
 vavitems:
   - page: Home
-    url: /vpp/index.html
+    url: /vav/index.html
   - page: Introduction
-    url: /vpp/Introduction.html
+    url: /vav/Introduction.html
   - page: Chronicle
-    url: /vpp/Chronicle.html
+    url: /vav/Chronicle.html
   - page: Texts
-    url: /vpp/Texts.html
+    url: /vav/Texts.html
   - page: Bibliography
-    url: /vpp/Biblio.html
+    url: /vav/Biblio.html
   - page: Photos
-    url: /vpp/Photos.html
+    url: /vav/Photos.html
   - page: Documents
-    url: /vpp/Documents.html
+    url: /vav/Documents.html
 akvitems:
   - page: Home
     url: /akv/index.html

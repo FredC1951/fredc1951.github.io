@@ -1,6 +1,6 @@
 ---
 layout: home
-section: vpp
+section: vav
 ---
 # Vagarshak Arutiunovich Ter-Vaganian (1893-1936)
 
