@@ -22,8 +22,6 @@ vppitems:
     url: /vpp/Chronicle.html
   - page: Texts
     url: /vpp/Texts.html
-  - page: Links
-    url: /vpp/Links.html
   - page: Bibliography
     url: /vpp/Biblio.html
 akvitems:
