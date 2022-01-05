@@ -35,10 +35,10 @@ The following works are about V. P. Polonsky, or contain references to him. Wher
 
 ### 1932
 - Мещеряков Н., Вячеслав Полонский (некролог), «Известия», 1932, № 57, 27 февраля.
-- Пастернак, Б., &lt;На смерть Полонского&gt;, 17 марта 1932 г., Литературное наследство, т. 93, М., «Наука», 1983, стр. 702. [Pdf](../Texts/BP_Na%20smert%20Polonskogo1932.pdf)
+- Пастернак, Б., &lt;На смерть Полонского&gt;, 17 марта 1932 г., Литературное наследство, т. 93, М., «Наука», 1983, стр. 702. [Pdf](Texts/BP_Na%20smert%20Polonskogo1932.pdf)
 
 ### 1934
-Eastman, Max. &quot;Polonsky's Persecution,&quot; in: Artists in Uniform: A Study of Literature and Bureaucratism, London: George Allen &amp; Unwin, 1934, pp. 156-160. [Pdf](../Texts/Eastman_Polonsky1934.pdf)
+Eastman, Max. &quot;Polonsky's Persecution,&quot; in: Artists in Uniform: A Study of Literature and Bureaucratism, London: George Allen &amp; Unwin, 1934, pp. 156-160. [Pdf](Texts/Eastman_Polonsky1934.pdf)
 
 ### 1964
 Смирнов, Н., Первые годы «Нового мира», «Новый мир», 1964, № 7, стр.
