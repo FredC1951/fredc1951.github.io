@@ -2,7 +2,7 @@
 layout: home
 section: akv
 ---
-# Works About Voronsky - test
+# Works About Voronsky
 ## Material Published in Voronsky's Lifetime
 
 ### 1918
