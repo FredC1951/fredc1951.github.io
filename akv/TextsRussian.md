@@ -53,7 +53,7 @@ Throughout the bibliography, texts that are available on this site have been mar
   - К итогам очередной сессии ВЦИК. – Рабочий край, 1920, 7 окт. [Html](Texts/RK201007a.html)
   - Мир с Польшей и Финляндией. – Рабочий край, 1920, 7 окт. [Html](Texts/RK201007b.html)
   - Предварительный мир с Польши. – Рабочий край, 1920, 15 окт. [Html](Texts/RK201015.html)
-  - словия мира. – Рабочий край, 1920, 16 окт. [Html](Texts/RK201016.html)
+  - Условия мира. – Рабочий край, 1920, 16 окт. [Html](Texts/RK201016.html)
   - «РОСТА». – Рабочий край, 1920, 17 окт. [Html](Texts/RK201017.html)
   - Гарантии мира. – Рабочий край, 1920, 19 окт. [Html](Texts/RK201019a.html)
   - Клара Цеткин. – Рабочий край, 1920, 19 окт. [Html](Texts/RK201019b.html)
