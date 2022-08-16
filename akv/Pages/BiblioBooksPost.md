@@ -234,7 +234,7 @@ section: akv
 	</tr>
 	<tr>
 		<td>
-            <img src="../Images/Bookcovers/AKV_Gogol_320.jpg" alt="Gogol 2006" width="255">
+            <img src="../Images/Bookcovers/AKV_Za-Zhivoi-i-mertvoi-vodoi_2019.jpg" alt="Waters 2019" width="255">
 		</td>
 		<td>
             <b>Title</b>: Waters of Life and Death.
