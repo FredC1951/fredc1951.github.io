@@ -232,6 +232,18 @@ section: akv
 			<p><b>Pages</b>: 496.</p>
 		</td>
 	</tr>
+	<tr>
+		<td>
+            <img src="../Images/Bookcovers/AKV_Gogol_320.jpg" alt="Gogol 2006" width="255">
+		</td>
+		<td>
+            <b>Title</b>: Waters of Life and Death.
+			<p><b>Publisher</b>: Common Place </p>
+			<p><b>Year</b>: 2019.</p>
+			<p><b>Tirazh</b>: 400</p>
+			<p><b>Pages</b>: 496</p>
+		</td>
+	</tr>
 </tbody>
 </table>
 
