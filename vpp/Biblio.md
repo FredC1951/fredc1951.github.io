@@ -250,6 +250,7 @@ writings accessible to people who do not know Russian.
 - Новые материалы для биографии Герцена и Огарева, «Новый мир», 1929, кн. 12, с. 208-216.
 - О современной литературе. 2-е изд., испр. и доп. М.-Л.: ГИЗ, 1929, 270 с.
 - Очерки литературного движения революционной эпохи  (1917—1927). 2-е изд., испр. и доп. М.-Л.: ГИЗ, 1929, VIII, 334 с. [Обложка](Images/VPP_OcherkiLitDvi1929_960.jpg)
+- Di literarishe shtremungen in Ratn-Rusland fun 1917 biz 1927 /fun Rusish: Y. Rapoport. [Title Page](Images/VPP_Ocherki_Yiddish_TitlePage_1929.jpg).
 - Литература и общество. Сб. статей. М., Федерация, 1929, 402 с.
 
 ### 1930
