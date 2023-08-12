@@ -1,6 +1,5 @@
 ![image](https://github.com/ednawig/ednawig.github.io/assets/98132560/c2df0c98-0efb-4200-a436-3d6305cb60b9)![image](https://github.com/ednawig/ednawig.github.io/assets/98132560/8bdb26da-cf9f-4441-ba6f-6d03dc3caef5)---
-layout: home
-section: vpp
+
 ---
 # Works by V. P. Polonsky
 ## Articles, Reviews and Books with Material by V. P. Polonsky (Gusin)<
