@@ -1,5 +1,3 @@
-![image](https://github.com/ednawig/ednawig.github.io/assets/98132560/c2df0c98-0efb-4200-a436-3d6305cb60b9)![image](https://github.com/ednawig/ednawig.github.io/assets/98132560/8bdb26da-cf9f-4441-ba6f-6d03dc3caef5)---
-
 ---
 # Works by V. P. Polonsky
 ## Articles, Reviews and Books with Material by V. P. Polonsky (Gusin)<
@@ -275,7 +273,7 @@ writings accessible to people who do not know Russian.
 - О Маяковском. М. - Л., ГИХЛ, 1931, 68 с.
 
 ### 1932
-- La literatura rusa de la época revolucionaria. Traducción del ruso por Andrés Nin, Madrid: Ed. España, 302 p.[Cover](Images/VPP_La literatura rusa_1932b.jpg).  
+- La literatura rusa de la época revolucionaria. Traducción del ruso por Andrés Nin, Madrid: Ed. España, 302 p. [Cover](Images/VPP_La literatura rusa_1932b.jpg).  
 
 ### 1933
 Материалы для биографии М. Бакунина. Т. II. М., Л.: Соцэкгиз, 1933, VII, 723 с.
