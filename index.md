@@ -15,7 +15,7 @@ hide_nav: true
 - **[Vagarshak A. Ter-Vaganian](vav)**
   - Member of Left Opposition; editor of &quot;Under the Banner of Marxism&quot;; close friend of Voronsky; worked at the Marx-Engels Institute; defendant at the Trial of Sixteen in August 1936; shot. 
 - **[Liubov I. Akselrod](lia)**
-  - Marxist philosopher and literaty critic. Close supporter of Plekhanov. Published articles on historical materialism and aesthetics in Voronsky's journal, "Red Virgin Soil." Active among the mechanist tendency in the philosophical debates of the 1920s and 1930s. Died in 1946.
+  - Marxist philosopher and literary critic. Close supporter of Plekhanov. Published articles on historical materialism and aesthetics in Voronsky's journal, "Red Virgin Soil." Active among the mechanist tendency in the philosophical debates of the 1920s and 1930s. Died in 1946.
 - **The Left Opposition in the Soviet Union.**
   - Documents, photos and other material about the history of the Left Opposition, led by Leon Trotsky. 
 - **Pereval**
