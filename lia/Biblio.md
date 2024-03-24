@@ -36,7 +36,7 @@ publication provides over half the items in this bibliography.
 - Рецензия на книгу Zur Vorgeschichte des modernen philosophischen Sozialismus in Deutschland. Zur
 Geschichte der Philosophie und Sozialphilosophie des Junghegelianismus. Von Dr. Koygen. (Berner Studien zur Philosophie
 und ihrer Geschichte, Bd. XXVI, 1901). -- «Заря» 1902, № 4, стр. 223-228.
-- «Tolstois Weltanschauung und ihre Entwicklung». Verlag Ferdinand Enke, Stuttgart., 1902, 111 pp. (Doctoral dissertation published as a book).[PDF](Texts/Tolstois_Weltanschauung_1902.pdf)
+- «Tolstois Weltanschauung und ihre Entwicklung». Verlag Ferdinand Enke, Stuttgart., 1902, 111 pp. (Doctoral dissertation published as a book). [PDF](Texts/Tolstois_Weltanschauung_1902.pdf)
 
 **1903** 
 - О «проблемах идеализма». (Нелегальное издание), Издание Российской Социал-демократической Рабочей Партии, 1903, 36 с. [Оттиск от «Зари», 1903, № 5.]
