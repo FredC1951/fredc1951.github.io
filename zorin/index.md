@@ -6,7 +6,7 @@ section: zorin
 # Sergey Semenovich Zorin (Gombarg)
 ## (1890-1937)
 
-![](Images/Photos/SSZ_Photo1_480.jpg) "Zorin")
+![](Images/Photos/SSZ_Photo1_480.jpg "Zorin")
 
 Welcome to the Sergei. S. Zorin website. Our goal is to illustrate the life and works of this once prominent but now almost unknown Bolshevik.
 Returning to Russia from the United States in 1917, where he had worked for years in the Socialist Party, Zorin actively participated in the
