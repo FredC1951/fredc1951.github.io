@@ -222,14 +222,14 @@ section: akv
 	</tr>
 	<tr>
 		<td>
-            <img src="../Images/Bookcovers/AKV_Gogol_320.jpg" alt="Gogol 2006" width="255">
+            <img src="../Images/Bookcovers/AKV_Politicheski-siluety_2016.jpg" alt="Political Silhouettes 2016" width="255">
 		</td>
 		<td>
-            <b>Title</b>: Gogol.
-			<p><b>Publisher</b>: </p>
-			<p><b>Year</b>: [2006].</p>
-			<p><b>Tirazh</b>: </p>
-			<p><b>Pages</b>: 496.</p>
+            <b>Title</b>: Политические силуэты.
+			<p><b>Publisher</b>: Издатель Мархотин П. Ю. </p>
+			<p><b>Year</b>: [2016].</p>
+			<p><b>Tirazh</b>: 70 </p>
+			<p><b>Pages</b>: 154.</p>
 		</td>
 	</tr>
 </tbody>
