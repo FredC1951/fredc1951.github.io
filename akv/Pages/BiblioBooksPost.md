@@ -220,12 +220,12 @@ section: akv
 			<p><b>Pages</b>: 212.</p>
 		</td>	
 	</tr>
-<tr>
+        <tr>
 		<td>
-            <img src="../Images/Bookcovers/AKV_Gogol_2009.jpg" alt="Gogol 2009" width="255">
+                        <img src="../Images/Bookcovers/AKV_Gogol_2009.jpg" alt="Gogol 2009" width="255">
 		</td>
 		<td>
-            <b>Title</b>: Gogol.
+                        <b>Title</b>: Gogol.
 			<p><b>Publisher</b>: Molodaia gvardiia </p>
 			<p><b>Year</b>: 2009.</p>
 			<p><b>Tirazh</b>: 3,000 </p>
@@ -235,10 +235,10 @@ section: akv
 
 	<tr>
 		<td>
-            <img src="../Images/Bookcovers/AKV_Politicheski-siluety_2016.jpg" alt="Political Silhouettes 2016" width="255">
+                        <img src="../Images/Bookcovers/AKV_Politicheski-siluety_2016.jpg" alt="Political Silhouettes 2016" width="255">
 		</td>
 		<td>
-            <b>Title</b>: Политические силуэты.
+                        <b>Title</b>: Политические силуэты.
 			<p><b>Publisher</b>: Издатель Мархотин П. Ю. </p>
 			<p><b>Year</b>: 2016.</p>
 			<p><b>Tirazh</b>: 70 </p>
