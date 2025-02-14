@@ -245,6 +245,19 @@ section: akv
 			<p><b>Pages</b>: 154.</p>
 		</td>
 	</tr>
+
+        <tr>
+		<td>
+                        <img src="../Images/Bookcovers/AKV_Menia-prinimaiut_2017.jpg" alt="They Take Me 2017" width="255">
+		</td>
+		<td>
+                        <b>Title</b>: "Меня принимают не за того, кто я есть...".
+			<p><b>Publisher</b>: П. Мархотин </p>
+			<p><b>Year</b>: 2017.</p>
+			<p><b>Tirazh</b>: </p>
+			<p><b>Pages</b>: 140.</p>
+		</td>
+	</tr>
 </tbody>
 </table>
 
