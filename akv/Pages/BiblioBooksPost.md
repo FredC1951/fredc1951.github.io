@@ -242,7 +242,7 @@ section: akv
 			<p><b>Publisher</b>: Издатель Мархотин П. Ю. </p>
 			<p><b>Year</b>: 2016.</p>
 			<p><b>Tirazh</b>: 70 </p>
-			<p><b>Pages</b>: 154.</p>
+			<p><b>Pages</b>: 154.</p>  
 		</td>
 	</tr>
 
