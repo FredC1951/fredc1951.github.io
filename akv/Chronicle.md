@@ -206,7 +206,7 @@ section: akv
   Its members include Y. Yakovlev, A. Voronsky, N. Meshcheriakov, P. Lebedev-Poliansky.
 - 1922, July 26  
   Meeting held in Trotsky's office to discuss literary matters.
-  In attendance: Trotsky, Kamenev, Bukharin, Osinsky, Shmidt, Voronskys, Polonsky, Bubnov, Pyatakov, Preobrazhensky, Popov-Dubovskoy, Lebedev-Polyansky.
+  In attendance: Trotsky, Kamenev, Bukharin, Osinsky, Shmidt, Voronsky, Polonsky, Bubnov, Pyatakov, Preobrazhensky, Popov-Dubovskoy, Lebedev-Polyansky.
 - 1922, July 26  
   Special commission of Politburo names Voronsky responsible for organizing new publishing house, which becomes &quot;Krug&quot; [Circle].
 - 1922, August  
