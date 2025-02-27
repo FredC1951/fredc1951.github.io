@@ -31,7 +31,7 @@ section: akv
   Travels to Khoroshavka; meets V. P. Nogin, a leading Bolshevik, who gives him address of contacts in Petersburg.
 - 1905  
   Goes to Petersburg, where he meets Mar'ia I. Ul'ianova (Lenin's sister) and the worker, Sergei Malyshev. 
-  The latter tries to pursuade the young expelled seminarian to return to Tambov; Voronsky stays.
+  The latter tries to persuade the young expelled seminarian to return to Tambov; Voronsky stays.
 - 1905, Fall  
   Lives in Petersburg apartment known as &quot;Senia Markov's Commune.&quot; Carries out party assignments with 
   Sem'en Vasil'evich Markov, Aleksandr Mikhailovich Buiko and Mikhail V. Bogdanov
