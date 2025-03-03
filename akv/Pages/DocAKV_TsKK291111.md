@@ -5,7 +5,7 @@ section: akv
 # Document
 ## Handwritten Letter from Voronsky to the TsKK, 11 November 1929
 
-**Description**: Handwritten the letter from Voronsky to the Central Control Commission of
+**Description**: Handwritten letter from Voronsky to the Central Control Commission of
 the VKP(b), 11 November 1929, declaring that he is leaving the Opposition. He condemns
 Trotsky's activity, especially his activity abroad, and ends by asking to be accepted
 into the ranks of the Communist Party.
