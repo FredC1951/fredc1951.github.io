@@ -222,7 +222,7 @@ section: akv
 	</tr>
         <tr>
 		<td>
-			<img src="../Images/Bookcovers/AKV_Stati-v-odesskoi-periodike_2007" alt="Odessa 2007" width="229">
+			<img src="../Images/Bookcovers/AKV_Stati_v_odesskoi_periodike_2007" alt="Odessa 2007" width="229">
 		</td>
 		<td>
 			<b>Title</b>: Статьи в одесской периодике (1917-1918 годы).
