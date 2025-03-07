@@ -227,7 +227,7 @@ section: akv
 		<td>
             <b>Title</b>: Gogol.
 			<p><b>Publisher</b>: </p>
-			<p><b>Year</b>: [2006].</p>
+			<p><b>Year</b>: 2006</p>
 			<p><b>Tirazh</b>: </p>
 			<p><b>Pages</b>: 496.</p>
 		</td>
