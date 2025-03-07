@@ -246,6 +246,18 @@ section: akv
 	</tr>
 	<tr>
 		<td>
+            <img src="../Images/Bookcovers/AKV_Gogol_2009.jpg" alt="Gogol 2009" width="255">
+		</td>
+		<td>
+            <b>Title</b>: Gogol.
+			<p><b>Publisher</b>: Москва: Молодая гвардия  </p>
+			<p><b>Year</b>: 2009</p>
+			<p><b>Tirazh</b>: 3,000 </p>
+			<p><b>Pages</b>: 447.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
             <img src="../Images/Bookcovers/AKV_Politicheski-siluety_2016.jpg" alt="Political Silhouettes" width="255">
 		</td>
 		<td>
