@@ -220,66 +220,40 @@ section: akv
 			<p><b>Pages</b>: 212.</p>
 		</td>	
 	</tr>
-        <tr>
-		<td>
-			<img src="../Images/Bookcovers/AKV_Stati_v_odesskoi_periodike_2007" alt="Odessa 2007" width="229">
-		</td>
-		<td>
-			<b>Title</b>: Статьи в одесской периодике (1917-1918 годы).
-			<p><b>Publisher</b>: Moscow: Antikva.</p>
-			<p><b>Year</b>: 2007.</p>
-			<p><b>Tirazh</b>: </p>
-			<p><b>Pages</b>: 162.</p>
-		</td>	
-	</tr>
-         <tr>
-		<td>
-                        <img src="../Images/Bookcovers/AKV_Gogol_2009.jpg" alt="Gogol 2009" width="255">
-		</td>
-		<td>
-                        <b>Title</b>: Gogol.
-			<p><b>Publisher</b>: Molodaia gvardiia </p>
-			<p><b>Year</b>: 2009.</p>
-			<p><b>Tirazh</b>: 3,000 </p>
-			<p><b>Pages</b>: 447.</p>
-		</td>
-	</tr>
-
 	<tr>
 		<td>
-                        <img src="../Images/Bookcovers/AKV_Politicheski-siluety_2016.jpg" alt="Political Silhouettes 2016" width="255">
+            <img src="../Images/Bookcovers/AKV_Gogol_320.jpg" alt="Gogol 2006" width="255">
 		</td>
 		<td>
-                        <b>Title</b>: Политические силуэты.
-			<p><b>Publisher</b>: Издатель Мархотин П. Ю. </p>
-			<p><b>Year</b>: 2016.</p>
-			<p><b>Tirazh</b>: 70 </p>
-			<p><b>Pages</b>: 154.</p>  
-		</td>
-	</tr>
-
-        <tr>
-		<td>
-                        <img src="../Images/Bookcovers/AKV_Menia-prinimaiut_2017.jpg" alt="They Take Me 2017" width="255">
-		</td>
-		<td>
-                        <b>Title</b>: "Меня принимают не за того, кто я есть...".
-			<p><b>Publisher</b>: П. Мархотин </p>
-			<p><b>Year</b>: 2017.</p>
+            <b>Title</b>: Gogol.
+			<p><b>Publisher</b>: </p>
+			<p><b>Year</b>: 2006</p>
 			<p><b>Tirazh</b>: </p>
-			<p><b>Pages</b>: 140.</p>
+			<p><b>Pages</b>: 496.</p>
 		</td>
 	</tr>
-        <tr>
+	<tr>
 		<td>
-                        <img src="../Images/Bookcovers/AKV_Za zhivoi i Mertvoj_2019.jpg" alt="Waters of Life 2019" width="255">
+            <img src="../Images/Bookcovers/AKV_Stati_v_odesskoi_periodike_2007.jpg" alt="Odessa 2007" width="255">
 		</td>
 		<td>
-                        <b>Title</b>: За живой и мертвой водой.
-			<p><b>Publisher</b>: Common place </p>
+            <b>Title</b>: Статьи в одесской периодике (1917-1918 годы).
+			<p><b>Publisher</b>: Moscow: Antikva. </p>
+			<p><b>Year</b>: 2007</p>
+			<p><b>Tirazh</b>: </p>
+			<p><b>Pages</b>: 162.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+            <img src="../Images/Bookcovers/AKV_Za-Zhivoi-i-mertvoi-vodoi_2019.jpg" alt="Waters 2019" width="255">
+		</td>
+		<td>
+            <b>Title</b>: Waters of Life and Death.
+			<p><b>Publisher</b>: Common Place </p>
 			<p><b>Year</b>: 2019.</p>
-			<p><b>Tirazh</b>: 400 </p>
-			<p><b>Pages</b>: 496.</p>
+			<p><b>Tirazh</b>: 400</p>
+			<p><b>Pages</b>: 496</p>
 		</td>
 	</tr>
 </tbody>
