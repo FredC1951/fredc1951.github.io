@@ -234,6 +234,18 @@ section: akv
 	</tr>
 	<tr>
 		<td>
+            <img src="../Images/Bookcovers/AKV_Stati_v_odesskoi_periodike_2007.jpg" alt="Odessa 2007" width="255">
+		</td>
+		<td>
+            <b>Title</b>: Статьи в одесской периодике (1917-1918 годы).
+			<p><b>Publisher</b>: Moscow: Antikva. </p>
+			<p><b>Year</b>: 2007</p>
+			<p><b>Tirazh</b>: </p>
+			<p><b>Pages</b>: 162.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
             <img src="../Images/Bookcovers/AKV_Za-Zhivoi-i-mertvoi-vodoi_2019.jpg" alt="Waters 2019" width="255">
 		</td>
 		<td>
