@@ -258,6 +258,18 @@ section: akv
 	</tr>
 	<tr>
 		<td>
+            <img src="../Images/Bookcovers/AKV_Memento-vivere_2016.jpg" alt="Remember to Live 2016" width="255">
+		</td>
+		<td>
+            <b>Title</b>: Memento Vivere (Помни о жизни)
+			<p><b>Publisher</b>: Москва: Мархотин П. Ю. </p>
+			<p><b>Year</b>: 2016</p>
+			<p><b>Tirazh</b>: 70 </p>
+			<p><b>Pages</b>: 102.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
             <img src="../Images/Bookcovers/AKV_Politicheski-siluety_2016.jpg" alt="Political Silhouettes" width="255">
 		</td>
 		<td>
