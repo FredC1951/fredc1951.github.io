@@ -258,6 +258,18 @@ section: akv
 			<p><b>Pages</b>: 140.</p>
 		</td>
 	</tr>
+        <tr>
+		<td>
+                        <img src="../Images/Bookcovers/AKV_Za zhivoi i Mertvoj_2019.jpg" alt="Waters of Life 2019" width="255">
+		</td>
+		<td>
+                        <b>Title</b>: За живой и мертвой водой.
+			<p><b>Publisher</b>: Common place </p>
+			<p><b>Year</b>: 2019.</p>
+			<p><b>Tirazh</b>: 400 </p>
+			<p><b>Pages</b>: 496.</p>
+		</td>
+	</tr>
 </tbody>
 </table>
 
