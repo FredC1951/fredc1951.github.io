@@ -246,6 +246,18 @@ section: akv
 	</tr>
 	<tr>
 		<td>
+            <img src="../Images/Bookcovers/AKV_Iz-rasskazov-Vаlеntina_2008.jpg" alt="Valentine's Stories 2008" width="255">
+		</td>
+		<td>
+            <b>Title</b>: Из рассказов Валентина.
+			<p><b>Publisher</b>: Moscow: РуПаб+. </p>
+			<p><b>Year</b>: 2008</p>
+			<p><b>Tirazh</b>: 100 </p>
+			<p><b>Pages</b>: 490.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
             <img src="../Images/Bookcovers/AKV_Gogol_2009.jpg" alt="Gogol 2009" width="255">
 		</td>
 		<td>
