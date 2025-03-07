@@ -246,6 +246,18 @@ section: akv
 	</tr>
 	<tr>
 		<td>
+            <img src="../Images/Bookcovers/AKV_Politicheski-siluety_2016.jpg" alt="Political Silhouettes" width="255">
+		</td>
+		<td>
+            <b>Title</b>: Политические силуэты. [Political Silhouettes]
+			<p><b>Publisher</b>: Мархотин П. Ю. </p>
+			<p><b>Year</b>: 2016</p>
+			<p><b>Tirazh</b>: 70 </p>
+			<p><b>Pages</b>: 154.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
             <img src="../Images/Bookcovers/AKV_Za-Zhivoi-i-mertvoi-vodoi_2019.jpg" alt="Waters 2019" width="255">
 		</td>
 		<td>
