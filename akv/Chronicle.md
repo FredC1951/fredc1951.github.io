@@ -206,12 +206,12 @@ section: akv
   Its members include Y. Yakovlev, A. Voronsky, N. Meshcheriakov, P. Lebedev-Poliansky.
 - 1922, July 26  
   Meeting held in Trotsky's office to discuss literary matters.
-  In attendance: Trotsky, Kamenev, Bukharin, Osinsky, Shmidt, Voronskys, Polonsky, Bubnov, Pyatakov, Preobrazhensky, Popov-Dubovskoy, Lebedev-Polyansky.
+  In attendance: Trotsky, Kamenev, Bukharin, Osinsky, Shmidt, Voronsky, Polonsky, Bubnov, Pyatakov, Preobrazhensky, Popov-Dubovskoy, Lebedev-Polyansky.
 - 1922, July 26  
   Special commission of Politburo names Voronsky responsible for organizing new publishing house, which becomes &quot;Krug&quot; [Circle].
 - 1922, August  
   Debate organized by editors of &quot;Krasnaia nov&quot;: &quot;Contemporary Writers and the People,&quot;
-  discussing N. Osinsky's article, &quot;&Побег травы&quot; [Blade of Grass] from Pravda, 30 April 1922.
+  discussing N. Osinsky's article, &quot;Побег травы&quot; [Blade of Grass] from Pravda, 30 April 1922.
 - 1922, September 14  
   Voronsky reports on &quot;Kuznitsa&quot; at Politburo meeting. His proposal that they be rendered material support is accepted.
 - 1923, February  
