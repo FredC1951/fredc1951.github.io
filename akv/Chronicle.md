@@ -223,7 +223,7 @@ section: akv
 - 1923, December 16  
   Visits Lenin for last time at Gorki.
 - 1924, March 18  
-  Speaks before the Agitation and Porpaganda Department of the Central Committee with a report:
+  Speaks before the Agitation and Propaganda Department of the Central Committee with a report:
   &quot;On the 'Current Moment' and the Tasks of the RCP in Imaginative Literature.&quot;
 - 1924, May 9-10  
   Conference of Press Department of the Central Committee; Voronsky gives one of two main reports.
