@@ -246,6 +246,66 @@ section: akv
 	</tr>
 	<tr>
 		<td>
+            <img src="../Images/Bookcovers/AKV_Iz-rasskazov-Vаlеntina_2008.jpg" alt="Valentine's Stories 2008" width="255">
+		</td>
+		<td>
+            <b>Title</b>: Из рассказов Валентина.
+			<p><b>Publisher</b>: Moscow: РуПаб+. </p>
+			<p><b>Year</b>: 2008</p>
+			<p><b>Tirazh</b>: 100 </p>
+			<p><b>Pages</b>: 490.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+            <img src="../Images/Bookcovers/AKV_Gogol_2009.jpg" alt="Gogol 2009" width="255">
+		</td>
+		<td>
+            <b>Title</b>: Gogol.
+			<p><b>Publisher</b>: Москва: Молодая гвардия  </p>
+			<p><b>Year</b>: 2009</p>
+			<p><b>Tirazh</b>: 3,000 </p>
+			<p><b>Pages</b>: 447.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+            <img src="../Images/Bookcovers/AKV_Memento-vivere_2016.jpg" alt="Remember to Live 2016" width="255">
+		</td>
+		<td>
+            <b>Title</b>: Memento Vivere (Помни о жизни)
+			<p><b>Publisher</b>: Москва: Мархотин П. Ю. </p>
+			<p><b>Year</b>: 2016</p>
+			<p><b>Tirazh</b>: 70 </p>
+			<p><b>Pages</b>: 102.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+            <img src="../Images/Bookcovers/AKV_Politicheski-siluety_2016.jpg" alt="Political Silhouettes" width="255">
+		</td>
+		<td>
+            <b>Title</b>: Политические силуэты. [Political Silhouettes]
+			<p><b>Publisher</b>: Мархотин П. Ю. </p>
+			<p><b>Year</b>: 2016</p>
+			<p><b>Tirazh</b>: 70 </p>
+			<p><b>Pages</b>: 154.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+            <img src="../Images/Bookcovers/AKV_Menia-prinimaiut_2017.jpg" alt="They Take Me 2017" width="255">
+		</td>
+		<td>
+            <b>Title</b>: "Меня принимают не за того, кто я есть..."
+			<p><b>Publisher</b>: Санкт-Петербург: П. Мархотин </p>
+			<p><b>Year</b>: 2017</p>
+			<p><b>Tirazh</b>: </p>
+			<p><b>Pages</b>: 140.</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
             <img src="../Images/Bookcovers/AKV_Za-Zhivoi-i-mertvoi-vodoi_2019.jpg" alt="Waters 2019" width="255">
 		</td>
 		<td>
