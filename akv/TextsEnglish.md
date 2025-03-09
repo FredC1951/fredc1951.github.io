@@ -30,7 +30,7 @@ Throughout the bibliography, texts that are available on this site have been mar
   - Art as the Cognition of Life, and the Contemporary World [Pdf](Texts/AKV_ArtCog95-144.pdf)
   - On Proletarian Art and the Artistic Policy of Our Party [Pdf](Texts/AKV_ProlArt147-171.pdf)
 - **1924**
-  - By the Mausoleum [Pdf](Texts/AKV_Sharp%20Phrases.pdf)
+  - By the Mausoleum [Pdf](Texts/AKV_By_the_Mausoleum_1924.pdf)
 - **1925**
   - Freudianism and Art [Pdf](Texts/AKV_Freud173-201.pdf)
   - On Art [Pdf](Texts/AKV_OnArt203-225.pdf)
