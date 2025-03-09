@@ -77,7 +77,7 @@ Throughout the bibliography, texts that are available on this site have been mar
 - **1923**  
   О пролетарском искусстве и о художественной политике нашей партии. – Красная новь, 1923, № 7, с. 257-276. [Pdf](Texts/AKV_OnProlArt1923R.pdf)
 - **1924**
-  - У склепа. – Красная новь, 1924, № 1. [Pdf](Texts/AKV_Usklepa.pdf)
+  - У склепа. – Красная новь, 1924, № 1. [Pdf](Texts/AKV_U_sklepa1924.pdf) [Text](Texts/AKV_Usklepa.pdf)
   - Литературные силуэты: I. И. Бабель. – Красная новь, 1924, № 5, стр. 276-291. [Pdf](Texts/AKV_Babel1924.pdf)
   - Литературные силуэты: II. Л. Сейфуллина. – Красная новь, 1924, № 5, стр. 291-300. [Pdf](Texts/AKV_Seifullina1924.pdf)
   - Полемические заметки. – Красная новь, 1924, № 5, с. 309-321.  [Pdf](Texts/AKV_PolemicalRemarks1924.pdf)
