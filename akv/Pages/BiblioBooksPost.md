@@ -316,6 +316,18 @@ section: akv
 			<p><b>Pages</b>: 496</p>
 		</td>
 	</tr>
+	<tr>
+		<td>
+            <img src="../Images/Bookcovers/AKV_Gogol_2023.jpg" alt="Gogol 2023" width="255">
+		</td>
+		<td>
+            <b>Title</b>: Gogol.
+			<p><b>Publisher</b>: Москва: Молодая гвардия  </p>
+			<p><b>Year</b>: 2023</p>
+			<p><b>Tirazh</b>: </p>
+			<p><b>Pages</b>: 304.</p>
+		</td>
+	</tr>
 </tbody>
 </table>
 
