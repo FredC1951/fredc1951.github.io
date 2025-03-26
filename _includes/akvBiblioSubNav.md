@@ -28,7 +28,7 @@
       </td>
       <td>
         <ul>
-            <li><a href="/akv/Pages/Correspondence_AKV.html">To and From Voronski</a></li>
+            <li><a href="/akv/Pages/Correspondence_AKV.html">To and From Voronsky</a></li>
             <li><a href="/akv/Pages/CorrespondenceAbout.html">About Voronsky</a></li>
         </ul>
       </td>
