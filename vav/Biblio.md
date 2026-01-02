@@ -7,7 +7,7 @@ section: vav
 
 This bibliography is by no means complete. As Ter-Vaganian's widow, Klavdiia Generalova, writes in 1988,
 &quot;I turned to the Military Collegium of the Supreme Court of the USSR with a request to find in their archives
-the nearly finished manuscript of the book about Pushkin written by my husband Vagarshak Arutiunovich Ter-Vagania
+the nearly finished manuscript of the book about Pushkin written by my husband Vagarshak Arutiunovich Ter-Vaganian
 (1893-1936), as well as his &quot;Bibliography of G. V. Plekhanov,&quot; a work of many years which was the continuation
 of the book published in 1923, &quot;An Attempt at Plekhanov's Bibliography.&quot;
 
